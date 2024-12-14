@@ -43,6 +43,7 @@ This program, **PDF Password Protector**, is a Python script designed to secure 
 ### Example Command:
 ```bash
 python pdf_protector.py -i input.pdf -o protected_output.pdf
+```
 
 
 <p align="center">
