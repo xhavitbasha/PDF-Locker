@@ -44,3 +44,24 @@ This program, **PDF Password Protector**, is a Python script designed to secure 
 ```bash
 python pdf_protector.py -i input.pdf -o protected_output.pdf
 
+
+<p align="center">
+Launch the program: <br/>
+<img src="https://imgur.com/a/V9g4IJa" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Select the hashtype:  <br/>
+<img src="https://i.imgur.com/j1Joxja.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Enter the filepath: <br/>
+<img src="https://i.imgur.com/fZdzvNL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Enter the hash value:  <br/>
+<img src="https://i.imgur.com/ofKpn0E.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Password found:<br/>
+<img src="https://i.imgur.com/S3vrta1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
