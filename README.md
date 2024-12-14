@@ -52,8 +52,8 @@ Launch the program: <br/>
 
 <br />
 <br />
-Select the hashtype:  <br/>
-<img src="https://i.imgur.com/j1Joxja.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Generating the password:  <br/>
+<img src="https://i.imgur.com/yzDfJ2B.png!" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
