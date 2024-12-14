@@ -44,12 +44,3 @@ This program, **PDF Password Protector**, is a Python script designed to secure 
 ```bash
 python pdf_protector.py -i input.pdf -o protected_output.pdf
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
