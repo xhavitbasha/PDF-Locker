@@ -48,8 +48,8 @@ python pdf_protector.py -i input.pdf -o protected_output.pdf
 
 <p align="center">
 Launch the program: <br/>
-<img src="https://i.imgur.com/0zC02iY.png![image](https://github.com/user-attachments/assets/7cf61ac9-2b63-40cd-a812-e0087616519e)
-" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0zC02iY.png!"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 <br />
 <br />
 Select the hashtype:  <br/>
