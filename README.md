@@ -29,6 +29,12 @@ This program, **PDF Password Protector**, is a Python script designed to secure 
 6. **Security Disclaimer**:<br>
    - Reminds users that no PDF protection is 100% secure and encourages additional encryption measures for highly sensitive files.<br>
 
+7. **Security Features**:<br>
+
+- **Password Strength**: Ensures the password meets strict criteria for enhanced security.
+- **Password Protection**: Encrypts the PDF using a secure password to prevent unauthorized access.
+- **Input Privacy**: Utilizes `getpass` to hide the password during input, ensuring it cannot be sniffed or displayed on the screen.
+
 <br>
 
 ### How to Use:
